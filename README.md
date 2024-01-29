@@ -16,7 +16,7 @@
 ¡Conéctate conmigo para compartir ideas, proyectos o simplemente para charlar sobre desarrollo web!
 
 - 📧 Email: [lauchasalas@gmail.com](mailto:lauchasalas@gmail.com)
-- 🔗 LinkedIn: [LautaroSalasAne]([https://www.linkedin.com/in/lauchasalas](https://www.linkedin.com/in/lautaro-salas-ané-9442a5170/))
+- 🔗 LinkedIn: [LautaroSalasAne](https://www.linkedin.com/in/lauchasalas](https://www.linkedin.com/in/lautaro-salas-ané-9442a5170/))
 - 📷 Instagram: [@laucahsalas](https://instagram.com/lauchasalas)
 
 ¡Gracias por visitar mi perfil!
