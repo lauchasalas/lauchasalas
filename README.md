@@ -1,16 +1,22 @@
-### Hi there 👋
+# ¡Hola! Soy [Lautaro Salas Ane] 👋
 
-<!--
-**lauchasalas/lauchasalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado estudiante de desarrollo web full stack en [Digital House](https://www.digitalhouse.com/). Me encanta explorar y aprender sobre las últimas tecnologías en el mundo del desarrollo web.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Actualmente, estoy inmerso en aprender HTML, CSS, JavaScript y otras tecnologías web.
+- 🌱 Siempre estoy buscando aprender nuevas habilidades y mejorar mis conocimientos.
+- 🔍 Me interesa colaborar en proyectos emocionantes y desafiantes que me permitan crecer como desarrollador.
+- ✈️ Disfruto viajar y explorar nuevas culturas.
+- 📷 Me apasiona la fotografía y capturar momentos especiales.
+- 🎶 También disfruto de la música y descubrir nuevos géneros.
+
+## Contacto
+
+¡Conéctate conmigo para compartir ideas, proyectos o simplemente para charlar sobre desarrollo web!
+
+- 📧 Email: [lauchasalas@gmail.com](mailto:lauchasalas@gmail.com)
+- 🔗 LinkedIn: [LautaroSalasAne]([https://www.linkedin.com/in/lauchasalas](https://www.linkedin.com/in/lautaro-salas-ané-9442a5170/))
+- 📷 Instagram: [@laucahsalas](https://instagram.com/lauchasalas)
+
+¡Gracias por visitar mi perfil!
