@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Lautaro Salas Ane] 👋
+# ¡Hola! Soy Lautaro Salas Ane 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado estudiante de desarrollo web full stack en [Digital House](https://www.digitalhouse.com/). Me encanta explorar y aprender sobre las últimas tecnologías en el mundo del desarrollo web.
 
